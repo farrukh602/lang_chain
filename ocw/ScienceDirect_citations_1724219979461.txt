@@ -1,0 +1,11 @@
+Sheida Rashidi, Amir H. Nikseresht,
+Numerical investigation of the response of the hybrid wave energy converter including oscillating water column and horizontal floating cylinder to irregular waves,
+Energy,
+Volume 301,
+2024,
+131717,
+ISSN 0360-5442,
+https://doi.org/10.1016/j.energy.2024.131717.
+(https://www.sciencedirect.com/science/article/pii/S0360544224014907)
+Abstract: The main goal of this research is to investigate the effect of some geometrical parameters on an onshore Hybrid Wave Energy Converter (HWEC) including an onshore Oscillating Water Column (OWC) and a Horizontal Floating Cylinder (HFC) under regular and irregular waves. The TMA spectrum is the basis of this study. The wave spectrum is used to generate irregular waves in a numerical wave tank using Ansys-fluent software based on URANS equations. Active wave absorption is used to avoid the effect of reflected waves. Also, the SST k−ω turbulence model and the VOF scheme are used for turbulence modeling and interface tracking, respectively. The results confirm that the efficiency of the HWEC is higher than the efficiency of an OWC and the efficiency of an HFC in both regular and irregular waves. Besides, the efficiency of the HWEC in irregular waves is lower than its efficiency in regular waves. A comparison of the TMA and JONSWAP spectrum on HWEC performance shows that HWEC performance is lower on the JOANSWAP spectrum. This study shows that the use of irregular waves is essential to obtain more realistic results from analyses of the onshore HWEC performance, despite their need for high computational cost.
+Keywords: Irregular waves; Hybrid wave energy converter; TMA spectrum; JOANSWAP spectrum
